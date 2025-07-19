@@ -1,0 +1,5 @@
+Next Steps:
+
+Experiment with VT-x (Intel Virtualization) for anti-cheat.
+
+Research DMA (Direct Memory Access) attacks & prevention.

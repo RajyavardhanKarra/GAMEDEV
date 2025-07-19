@@ -1,0 +1,6 @@
+Next Steps:
+
+Experiment with WinAPI programming.
+
+Learn about process injection, hooking, and drivers.
+

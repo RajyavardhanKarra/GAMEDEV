@@ -1,0 +1,5 @@
+Next Steps:
+
+Learn C++ (used in game hacking/anti-cheat).
+
+Understand Python (for scripting and automation).

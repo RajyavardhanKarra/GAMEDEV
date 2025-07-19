@@ -1,0 +1,5 @@
+Next Steps:
+
+Study memory scanning, DLL injection, and packet manipulation.
+
+Play with Cheat Engine to understand memory hacking.

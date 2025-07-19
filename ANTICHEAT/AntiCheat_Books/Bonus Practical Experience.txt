@@ -1,0 +1,8 @@
+Reverse-engineer game cheats (e.g., on UnknownCheats).
+
+Build simple anti-cheat prototypes (memory scanner, hook detector).
+
+Contribute to open-source anti-cheat projects (like OpenAntiCheat).
+
+Final Thoughts
+Anti-cheat engineering is a niche but high-demand field. Start with the basics (C++, OS internals), then move into reverse engineering, game hacking, and finally kernel-level defenses.

@@ -1,0 +1,5 @@
+Next Steps:
+
+Study VAC, Easy Anti-Cheat, and BattlEye (how they work).
+
+Learn behavioral detection (machine learning for cheat detection).
