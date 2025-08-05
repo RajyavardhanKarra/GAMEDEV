@@ -1,0 +1,15 @@
+CompTIA A+ 220-1102 (Part 2)
+
+1. PC building Simulator - Steam
+2. number 2 Philips screwdriver 
+3. MMC
+4. Resource Monitor, Device Manager
+5. File Explorer
+6. Windows Server - Domain Controller - SSO - AD 
+7. Disk Management
+8. Storage Spaces
+9. Bitlocker for encryption of disks
+10. Trusted Platform Module (TPM) in system setup(BIOS)
+11. Event Viewer
+
+

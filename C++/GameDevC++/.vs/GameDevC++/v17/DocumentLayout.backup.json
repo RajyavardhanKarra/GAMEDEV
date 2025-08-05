@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karra\\Desktop\\GIT\\GAMEDEV\\C\u002B\u002B\\GameDevC\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5654B2D2-089F-4224-989F-FE791B3B476D}|GameDevC\u002B\u002B\\GameDevC\u002B\u002B.vcxproj|C:\\Users\\karra\\Desktop\\GIT\\GAMEDEV\\C\u002B\u002B\\GameDevC\u002B\u002B\\GameDevC\u002B\u002B\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5654B2D2-089F-4224-989F-FE791B3B476D}|GameDevC\u002B\u002B\\GameDevC\u002B\u002B.vcxproj|solutionrelative:GameDevC\u002B\u002B\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\karra\\Desktop\\GIT\\GAMEDEV\\C\u002B\u002B\\GameDevC\u002B\u002B\\GameDevC\u002B\u002B\\Source.cpp",
+              "RelativeDocumentMoniker": "GameDevC\u002B\u002B\\Source.cpp",
+              "ToolTip": "C:\\Users\\karra\\Desktop\\GIT\\GAMEDEV\\C\u002B\u002B\\GameDevC\u002B\u002B\\GameDevC\u002B\u002B\\Source.cpp",
+              "RelativeToolTip": "GameDevC\u002B\u002B\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-05T02:52:17.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
