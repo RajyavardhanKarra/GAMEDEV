@@ -11,5 +11,43 @@ CompTIA A+ 220-1102 (Part 2)
 9. Bitlocker for encryption of disks
 10. Trusted Platform Module (TPM) in system setup(BIOS)
 11. Event Viewer
+12. Device Manager
+13. winver command on search menu
+14. ISO Image - perfect copy of optical media
+15. Rufus - Burn ISO onto thumb drive
+16. PC Health Check
+17. Recovery Drive
+18. Restore Point
+19. File History
+20. Windows Security
+21. Task Manager
+22. appwiz.cpl command on search menu
+23. God Mode folder
+24. Windows+R = Run 
+25. Run useful commands - msinfo32, resmon, msconfig, mmc
+26. Registry - C:\Windows\System32\config 
+27. regedit.exe
+28. MacOs - console, activity monitor
+29. local users and groups
+30. Network Shares (Mapping Drives)
+31. Local Security Policy
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
