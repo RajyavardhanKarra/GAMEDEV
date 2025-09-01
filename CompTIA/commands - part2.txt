@@ -1,0 +1,93 @@
+commands
+
+dir - lists files and folders
+dir /p - one page at a time
+dir /? - help
+help dir - help
+cls - clear screen 
+man ls - help in Linux
+cd \ - root directory 
+d: - to get to D drive
+cd ~ - Home dir for Linux and Mac
+cd / - root dir for Linux and Mac
+pwd - present working dir for Linux and mac
+md Raj - create a folder called Raj
+rd Raj - delete a folder called Raj
+rd /s - delete non empty dir
+del Raj - delete file Raj 
+del *.txt - Delete all txt files
+del *.* - Delete all files
+copy Raj.txt k:\temp - copy Raj.txt from current directory to temp
+move - same as copy except it moves the file 
+format e: /FS:NTFS - formats e drive as NTFS
+format e: /FS:NTFS /Q - formats e drive as NTFS with quick format 
+chkdsk - fixes formatted partitions 
+chkdsk /f - Check and fix disk
+sfc /scannow - System file checker repairs critical windows files based on the system store
+dism /online /cleanup-image /restorehealth - repairs critical windows files based on online system stores
+
+**Run sfc /scannow and then dism if any error.
+ 
+diskpart - puts you in an interactive screen (used to partition drives)
+list disk - lists disk
+select disk 1 - selects disk 1
+create partition primary - creates primary partition on disk 1
+list partition - lists the partition
+select partition 1 - selects partition 1
+format FS=NTFS quick - quick formats partition 1 as NTFS
+assign letter=x: - assigns drive letter x to the partition
+
+xcopy - Used for heavy lifting copy (entire directory trees, including any files in the tree)
+robocopy - same as xcopy but more faster and safer 
+robocopy and xcopy can be used across a network (network share). 
+dd - heavy lift copy for Linux 
+dd if=/dev/sda of=/dev/sdb - copy sda to sdb (if is source and of is destination)
+
+icacls Test /grant Raj:F - Grant Raj full control over folder Test. 
+ls -l - list files with permissions in Linux
+chmod 777 Raj - Grant user, group and other rwx permission for folder Raj (r-4, w-2, x-1)   
+sudo chown Raj test - Change ownership of file test to Raj 
+sudo passwd - Change password of current user.
+
+shutdown /s - shutdown system
+tasklist
+taskkill /PID 1234 - kill task with PID 1234
+gpupdate - update group policy from domain 
+gpresult /R - Verify gpupdate and other useful information 
+
+shutdown now - shutdown in Linux 
+apt-get gives users access to the Debian Repository 
+sudo apt-get update - update applications
+sudo apt install joe - Install application called joe.  
+sudo apt-get upgrade joe - updates the app joe
+sudo apt-get remove joe - Delete app joe.
+ps aux - List all processes with details
+ps aux | grep "libre" - Only list processes related to libre
+kill 1234 - kill process with PID 1234
+
+Batch File - Automate simple tasks using commands in the form of text file with .bat extensions.
+PowerShell - a text file that provides far more powerful scripts
+bash shell - similar to PowerShell but in Linux 
+set - List environment variables (Environment variables are phrases that point to system-wide functions)
+pathping - similar to traceroute but more details. 
+nano - text editor for linux
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+ 

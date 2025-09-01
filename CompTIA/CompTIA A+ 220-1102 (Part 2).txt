@@ -31,6 +31,38 @@ CompTIA A+ 220-1102 (Part 2)
 29. local users and groups
 30. Network Shares (Mapping Drives)
 31. Local Security Policy
+32. sudo apt-get update - to check for updates through cli for Linux
+33. sudo apt-get upgrade - to update Linux through cli
+34. stat file - to check when a file was last updated on Linux
+35. Attrib g*.* - to check when a file was last updated on windows
+36. Windows is case insensitive so a folder mike and MIKE are the same
+37. System configuration -> Boot 
+38. Sysinternals website (www.sysinternals.com) - Autoruns, TCPView
+39. netstat/netstat -n/netstat -a -n  - Gives network stats 
+40. nslookup - gives DNS server information. 
+41. whoami 
+42. SMB (Server Message Blocks) - It is the windows method for network sharing - Samba for MAC and Linux
+43. net - command used for multiple administrative purposes.  
+44. Port Forwarding 
+45. Dynamic DNS
+46. QOS - Quality of service - Used to prioritize bandwidth for different applications/devices over a network. 
+47. UpnP - Universal plug and play 
+48. SNMP - Simple Network Management Protocol - enables querying of network devices. 
+49. LLDP - Link Layer Discovery Protocol and UPnP help with network device identification.
+50. VLAN, Port Security, SDN (Software-Defined Network)
+51. wifiman app - for finding wifi bands
+52. RDP equivalent for Linux/Mac - VNC (TightVNC)
+53. FTP client - FileZilla
+54. osTicket - Ticketing system
+
+
+
+
+
+
+
+
+
 
 
 
