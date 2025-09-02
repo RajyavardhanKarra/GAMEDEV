@@ -133,8 +133,19 @@ SCADA - Remote Terminal Unit, Seurity Risks, Business Risks, Documentation(NDU,M
 
 Patching and Updating - OS updates, Driver Updates, Firmware Updates, Patch Management. Disaster Discovery & Backups - Backup Plan Assessment, Recovery Point Objective(RPO), Recovery Time Objective(RTO), Configuration Data, State Data, Differential Backup, Incremental Backup, Snapshots, local backup, offsite backup, cloud backups, MTTF, MTTR, MTBF.
 
-CIA - Confidentiality, Integrity & Availability. Internal Threats, External Threats, Vulnerabilities, Exploits- spoofing. Defence In Depth(DiD), Honeypot, N/W segementation, Access Control, Seperation of duties, DOS Attack Types - Volume Attack - Ping Flood, Protocol Attack, Application Attack - Slow Loris Attack. Amplification Attack, BotNet, map.norsecorp.com, C&C/C2, Man-In-The-Middle Attack, Spoofing, Ettercap, Kali Linux, IP Address Spoofing, ARP Poison, Typosquatting, Domian Highjacking, Replay Attack, Downgrade Attack, Session Highjacking, Firesheep, VLAN Hopping - VLAN Spoofing, double tagging. DTP, Do Not Use The Native VLAN, Private VLAN. Malware - Virus, Adware, spyware -key logger, Trojan, RATs, Logic Bomb, Ransomware/CryptoMalware, Rootkit, backdoor. Social Engineering - Dumpster Diving, Phishing, Whaling, Shoulder Surfing, Eavesdropping, Tailgating/Piggybacking, Access Control Vestibule, Masquerading/Imporsonating. Logical Security - Data At Rest, Data in Transit, Data in Use.              
+CIA - Confidentiality, Integrity & Availability. Internal Threats, External Threats, Vulnerabilities, Exploits- spoofing. Defense In Depth(DiD), Honeypot, N/W segmentation, Access Control, Separation of duties, DOS Attack Types - Volume Attack - Ping Flood, Protocol Attack, Application Attack - Slow Loris Attack. Amplification Attack, Botnet, map.norsecorp.com, C&C/C2, Man-In-The-Middle Attack, Spoofing, Ettercap, Kali Linux, IP Address Spoofing, ARP Poison, Typo squatting, Domain High jacking, Replay Attack, Downgrade Attack, Session High jacking, Fire sheep, VLAN Hopping - VLAN Spoofing, double tagging. DTP, Do Not Use The Native VLAN, Private VLAN. Malware - Virus, Adware, spyware -key logger, Trojan, RATs, Logic Bomb, Ransomware/Crypto Malware, Rootkit, backdoor. Social Engineering - Dumpster Diving, Phishing, Whaling, Shoulder Surfing, Eavesdropping, Tailgating/Piggybacking, Access Control Vestibule, Masquerading/Impersonating. Logical Security - Data At Rest, Data in Transit, Data in Use. Physical Security - Motion Detection System, Asset Tags, Tamper Detection, Badge Reader, Biometric, Smart Lockers, Deterrent physical controls - Outside lighting, signage, security guards. Preventative physical control - Fence, Barricades, K ratings, Mantrap, Cabling Systems, Air gaps, VPN or VLAN, Safe, Locked cabinets, Faraday cages, Locks, Key management, Cable locks, screen filters. Detective Physical controls - Alarms, Cameras, Motion detectors, infrared detectors, Log files. Compensating and corrective control.
 
+Network Monitoring Technologies - SNMP (Simple N/W Management Protocol) - SNMP Manager, Agent, Management information Base(MIB) , Network Management Station(NMS), Trap messages - Generic traps, Enterprise-specific traps. SNMP Agent, SNMPv2c, SNMPv3, Read-only community string, Read-write, Trap community string, AES, SHA-1, LLDP(Cisco Discovery Protocol), Network flow, Packet capture, Baseline metrics, Log aggregation, Security Information and Event Management(SIEM), syslog collector, API integration. System Monitoring - ZABBIX. Error Rate, Utilization, Packet Drops, Bandwidth, File Integrity Monitoring.
+
+*N/W Troubleshooting Theory Steps*:
+
+1. Identify the problem
+2. Establish a theory of probable cause (Work on OSI model bottom up or top down)
+3. Test the Theory
+4. Establish a plan of action
+5. Implement and test the solution
+6. Verify system functionality 
+7. Document findings
 
    
 
